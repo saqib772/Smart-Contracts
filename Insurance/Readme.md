@@ -7,7 +7,7 @@
 - Only registered insurers can verify and settle claims.
 - Claims are uniquely identified by an auto-incrementing claim counter.
 - Events are emitted when a claim is submitted, verified, or settled, providing transparency and traceability.
-- The getClaim function allows anyone to retrieve information about a
+- The getClaim function allows anyone to retrieve information.
 
 
 
